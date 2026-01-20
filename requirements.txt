@@ -1,3 +1,0 @@
-# Необходимые библиотеки для работы с ESP8266 и Modbus
-ESP8266WiFi
-ModbusIP_ESP8266
